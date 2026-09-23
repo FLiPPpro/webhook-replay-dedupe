@@ -1,0 +1,2 @@
+{"received_at": "2026-09-20T12:00:00Z", "headers": {"Idempotency-Key": "a1"}, "body": {"x": 1}}
+{"received_at": "2026-09-20T12:01:00Z", "headers": {"Idempotency-Key": "a2"}, "body": {"x": 2}}

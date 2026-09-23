@@ -1,0 +1,5 @@
+{"key": "stripe:evt_1Q9A", "action": "send receipt"}
+{"key": "stripe:evt_1Q9A", "action": "send receipt"}
+{"key": "x-github-delivery:72d3162e-cc78-11e3-81ab-4c9367dc0958", "action": "deploy"}
+{"key": "stripe:evt_2B01", "action": "charge cus_12 $120"}
+{"key": "stripe:evt_2B02", "action": "charge cus_12 $120"}
